@@ -1,6 +1,6 @@
 # spam-sms-detector
 
-git clone https://github.com/your-username/spam-sms-detector.git
+git clone https://github.com/gunashritha-m/spam-sms-detector/tree/main
 cd spam-sms-detector
 
 
